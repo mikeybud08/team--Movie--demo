@@ -3,3 +3,6 @@ Bryan, John, and Mike
 
 Bryan Castro
 I can play soccer
+
+John Doan
+I played the Frisbee team sport in high school.
